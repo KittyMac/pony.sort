@@ -2,3 +2,6 @@ build/*
 TAGS
 tags
 .deps/*
+*.tar.gz
+_corral
+_repos
